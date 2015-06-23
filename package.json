@@ -1,5 +1,5 @@
 {
-  "name": "cassandra-driver",
+  "name": "cassandra-driver-manual-paging",
   "version": "1.0.2",
   "description": "DataStax Node.js Driver for Apache Cassandra",
   "author": "DataStax",
